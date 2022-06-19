@@ -1,6 +1,15 @@
 Changelog
 =========
 
+Version 0.1.1
+-------------
+
+Released on June 20, 2022.
+
+ -  Since deno.land/x does not support symbolic links, turned all symbolic links
+    into regular files.
+
+
 Version 0.1.0
 -------------
 
