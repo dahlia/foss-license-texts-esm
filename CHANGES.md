@@ -1,6 +1,14 @@
 Changelog
 =========
 
+Version 0.2.0
+-------------
+
+Released on June 20, 2022.
+
+ -  Moved modules for single license texts inside *licenses/* directory.
+
+
 Version 0.1.1
 -------------
 
