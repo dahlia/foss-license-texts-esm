@@ -1,6 +1,14 @@
 Changelog
 =========
 
+Version 0.2.1
+-------------
+
+Released on June 20, 2022.
+
+ -  Fixed an example code from *README.md* document.
+
+
 Version 0.2.0
 -------------
 
